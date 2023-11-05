@@ -2,7 +2,6 @@
   text-align: center;
 }
 
-
 body {
   background-color: #BDC4D6;
   font-family: Verdana, sans-serif;
@@ -11,6 +10,7 @@ body {
 strong {
   color: #050052;
 }
+
 #title {
   text-align: center;
   color: #e6e7ed;
@@ -37,6 +37,7 @@ figure {
   max-width: 100%;
   height: auto;
   display: block;
+  width: auto;
 }
 
 #tribute-footer {
